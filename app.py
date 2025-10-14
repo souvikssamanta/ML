@@ -75,7 +75,7 @@ expected_columns = joblib.load('columns.pkl')
 
 # App configuration
 st.set_page_config(
-    page_title="Heart Health Check",
+    page_title="Heart Alert",
     page_icon="❤️",
     layout="centered",
     initial_sidebar_state="expanded"
