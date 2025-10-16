@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/yourrepo/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/stars/souvikssamanta/ML?style=for-the-badge" alt="Stars Badge"/>
   </a>
-  <a href="https://github.com/yourusername/yourrepo/network/members">
-    <img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge" alt="Forks Badge"/>
+  <a href="https://github.com/souvikssamanta/ML/network/members">
+    <img src="https://img.shields.io/github/forks/souvikssamanta/ML?style=for-the-badge" alt="Forks Badge"/>
   </a>
-  <a href="https://github.com/yourusername/yourrepo/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge" alt="Issues Badge"/>
+  <a href="https://github.com/souvikssamanta/ML/issues">
+    <img src="https://img.shields.io/github/issues/souvikssamanta/ML?style=for-the-badge" alt="Issues Badge"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@ This project predicts the **likelihood of heart disease** using multiple machine
 
 The project provides a **user-friendly frontend using Streamlit**, allowing anyone to input patient data and get predictions instantly.
 
-🎯 **Live Demo:** [Add your Streamlit app link here]
+🎯 **Live Demo:** [https://jw9xbzkr8yphd3lnbc2fja.streamlit.app/]
 
 ---
 
