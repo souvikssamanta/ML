@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/heart_disease_banner.png" alt="Heart Disease Prediction" width="100%" />
+  <img src="https://raw.githubusercontent.com/souvikssamanta/ML/main/assets/ML.png" alt="Heart Disease Prediction" width="100%" />
 </p>
 
 <h1 align="center">❤️ Heart Disease Prediction</h1>
